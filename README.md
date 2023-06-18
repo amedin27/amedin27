@@ -1,8 +1,8 @@
-<h2> Hi, I'm Andrea Aguado!</h2>
+<h2> Hi, I'm Andrea Aguado! 👋 🖥️</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Front-End Developer Cegom GmbH</em></p>
+<p><em>Front-End Developer at Cegom GmbH, Deutschland</em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### More about me... 🥰
 
 ```javascript
 const andrea = {
